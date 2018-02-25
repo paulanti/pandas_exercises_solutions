@@ -1,0 +1,1 @@
+My solutions for [Pandas Exercises](https://github.com/guipsamora/pandas_exercises).
